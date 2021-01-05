@@ -1,0 +1,354 @@
+﻿[Script Info]
+Title: Erai-raws
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:17.08,0:00:18.54,Default,,0,0,0,,Magic.
+Dialogue: 0,0:00:18.54,0:00:22.87,Default,,0,0,0,,At the beginning of the 21st century,\Nit was categorized by actual technique.
+Dialogue: 0,0:00:23.99,0:00:27.91,Default,,0,0,0,,Those who possess superior abilities are known\Nas "magic technicians" or "magicians"...
+Dialogue: 0,0:00:27.91,0:00:33.49,Default,,0,0,0,,and are placed\Nunder the care of various nations.
+Dialogue: 0,0:00:33.49,0:00:36.62,Default,,0,0,0,,Among them, magicians\Nwith the power to repel an army
+Dialogue: 0,0:00:36.62,0:00:41.66,Default,,0,0,0,,and destroy a major city in one strike\Nwere labeled "Strategic-Class magicians,"
+Dialogue: 0,0:00:41.66,0:00:46.33,Default,,0,0,0,,and became the symbol of a military force\Nthat influences world affairs.
+Dialogue: 0,0:00:46.33,0:00:50.70,Default,,0,0,0,,Then, October 31st, 2095.
+Dialogue: 0,0:00:50.70,0:00:53.41,Default,,0,0,0,,Unofficial Strategic-Class magic...
+Dialogue: 0,0:00:53.41,0:00:57.24,Default,,0,0,0,,wiped out a naval base and a fleet\Non the southern tip of the Korean peninsula.
+Dialogue: 0,0:00:57.24,0:01:00.08,Default,,0,0,0,,That day became known\Nas "Scorched Halloween."
+Dialogue: 0,0:01:00.08,0:01:04.41,Default,,0,0,0,,The world was shaken by the debut\Nof a new Strategic-Class magician.
+Dialogue: 0,0:01:05.04,0:01:10.38,Default,,0,0,0,,{\fad(0,200)\bord0.4\fnOpen Sans Light\b0\3c&HFFFFFF&\u1\pos(566,88)}December 23rd, 2095 Dallas, Texas, USNA
+Dialogue: 0,0:01:36.79,0:01:38.08,Default,,0,0,0,,Halt!
+Dialogue: 0,0:01:38.08,0:01:40.91,Default,,0,0,0,,Lieutenant Alfred Fomalhaut!
+Dialogue: 0,0:01:40.91,0:01:44.08,Default,,0,0,0,,You know there's no escape.
+Dialogue: 0,0:01:46.74,0:01:49.49,Default,,0,0,0,,What the hell happened, Freddy?
+Dialogue: 0,0:01:49.49,0:01:52.41,Default,,0,0,0,,You were given the first-magnitude code name.
+Dialogue: 0,0:01:52.41,0:01:55.41,Default,,0,0,0,,What would make you desert the unit?
+Dialogue: 0,0:01:55.41,0:01:58.45,Default,,0,0,0,,You've also been accused\Nof using your pyrokinesis
+Dialogue: 0,0:01:58.45,0:02:02.91,Default,,0,0,0,,to commit a series of\Narson-murders in this town.
+Dialogue: 0,0:02:02.91,0:02:05.95,Default,,0,0,0,,You didn't really do that,\Nthough, did you?
+Dialogue: 0,0:02:07.45,0:02:08.66,Default,,0,0,0,,Freddy!
+Dialogue: 0,0:02:08.66,0:02:10.58,Default,,0,0,0,,Please answer me!
+Dialogue: 0,0:02:17.29,0:02:19.24,Default,,0,0,0,,Pyrokinesis!
+Dialogue: 0,0:02:29.20,0:02:31.49,Default,,0,0,0,,Lieutenant Fomalhaut...
+Dialogue: 0,0:02:31.49,0:02:34.49,Default,,0,0,0,,Based on the special articles of the USNA\NArmy Criminal Law Special Provision,
+Dialogue: 0,0:02:34.49,0:02:37.70,Default,,0,0,0,,with the authority\Nof the commander of Stars...
+Dialogue: 0,0:02:37.70,0:02:40.24,Default,,0,0,0,,I hereby sentence you to death!
+Dialogue: 0,0:02:56.11,0:03:00.58,Default,,0,0,0,,{\fad(500,0)\bord0\pos(590,318)\c&H6B99A6&\frz4.336}RESERVED TODAY
+Dialogue: 0,0:02:56.98,0:02:59.83,Default,,0,0,0,,{\fad(0,200)\bord0.4\fs40\fnOpen Sans Light\b0\3c&HFFFFFF&\u1\pos(300,94)}December 24th, 2095
+Dialogue: 0,0:02:58.45,0:03:00.58,Default,,0,0,0,,Does everyone have a drink?
+Dialogue: 0,0:03:01.66,0:03:05.24,Default,,0,0,0,,This doesn't seem like quite\Nthe layout for a farewell party,
+Dialogue: 0,0:03:05.24,0:03:07.95,Default,,0,0,0,,but they did prepare a cake for us, too.
+Dialogue: 0,0:03:07.95,0:03:10.29,Default,,0,0,0,,So, let's have a toast with this phrase.
+Dialogue: 0,0:03:16.58,0:03:18.33,Default,,0,0,0,,Merry Christmas.
+Dialogue: 0,0:03:18.33,0:03:20.20,Default,,0,0,0,,Merry Christmas!
+Dialogue: 0,0:03:20.20,0:03:21.99,Default,,0,0,0,,Cheers!
+Dialogue: 0,0:03:21.99,0:03:22.84,Default,,0,0,0,,Cheers.
+Dialogue: 0,0:03:22.84,0:03:24.08,Default,,0,0,0,,Yep.
+Dialogue: 0,0:03:29.66,0:03:31.08,Default,,0,0,0,,I still can't believe...
+Dialogue: 0,0:03:31.08,0:03:34.04,Default,,0,0,0,,that you're going to study abroad\Nin America, Shizuku.
+Dialogue: 0,0:03:34.04,0:03:36.62,Default,,0,0,0,,It's like that came out of nowhere.
+Dialogue: 0,0:03:36.62,0:03:41.49,Default,,0,0,0,,Sorry. My father wouldn't let me\Ntalk about it until now, the last minute.
+Dialogue: 0,0:03:41.49,0:03:44.16,Default,,0,0,0,,But I'm surprised you're allowed to go.
+Dialogue: 0,0:03:44.16,0:03:48.54,Default,,0,0,0,,They usually don't give magicians\Npermission to travel abroad.
+Dialogue: 0,0:03:48.54,0:03:50.66,Default,,0,0,0,,For some reason, they're letting me go.
+Dialogue: 0,0:03:50.66,0:03:54.87,Default,,0,0,0,,According to my father,\Nthe reason is it's a foreign exchange program.
+Dialogue: 0,0:03:54.87,0:03:58.04,Default,,0,0,0,,How long will you be gone?\NAnd when do you leave?
+Dialogue: 0,0:03:58.04,0:04:01.12,Default,,0,0,0,,At the beginning of the New Year.\NIt's for three months.
+Dialogue: 0,0:04:01.12,0:04:03.54,Default,,0,0,0,,Oh, three months!
+Dialogue: 0,0:04:04.70,0:04:07.49,Default,,0,0,0,,Where in America are you going?
+Dialogue: 0,0:04:07.49,0:04:08.87,Default,,0,0,0,,Here!
+Dialogue: 0,0:04:08.87,0:04:09.83,Default,,0,0,0,,Berkeley.
+Dialogue: 0,0:04:09.83,0:04:11.62,Default,,0,0,0,,Not Boston, then.
+Dialogue: 0,0:04:11.62,0:04:14.58,Default,,0,0,0,,I guess the East Coast\Nis unstable these days.
+Dialogue: 0,0:04:14.58,0:04:17.95,Default,,0,0,0,,Oh yeah, aren't the humanists\Nmaking some stink?
+Dialogue: 0,0:04:17.95,0:04:20.54,Default,,0,0,0,,It's on the news a lot.
+Dialogue: 0,0:04:20.54,0:04:23.33,Default,,0,0,0,,First witch hunts, now magician hunts?
+Dialogue: 0,0:04:23.33,0:04:27.45,Default,,0,0,0,,They say history repeats,\Nbut this is just silly.
+Dialogue: 0,0:04:27.45,0:04:33.37,Default,,0,0,0,,So, do you know\Nwho's coming here in your place?
+Dialogue: 0,0:04:33.37,0:04:36.49,Default,,0,0,0,,I heard she's a girl my age.
+Dialogue: 0,0:04:39.99,0:04:42.92,Default,,0,0,0,,{\fad(0,200)\bord0.4\fs35\fnOpen Sans Light\b0\3c&HFFFFFF&\u1\pos(422,88)}Stars Base, Texas, USNA
+Dialogue: 0,0:05:02.24,0:05:03.79,Default,,0,0,0,,Come in.
+Dialogue: 0,0:05:05.33,0:05:10.08,Default,,0,0,0,,Excuse me, Commander.\NI brought you some milk tea.
+Dialogue: 0,0:05:10.08,0:05:11.49,Default,,0,0,0,,Ben!
+Dialogue: 0,0:05:13.41,0:05:15.41,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:05:15.41,0:05:16.95,Default,,0,0,0,,You're welcome.
+Dialogue: 0,0:05:18.87,0:05:23.20,Default,,0,0,0,,By the way, Commander,\Ndo you have everything ready?
+Dialogue: 0,0:05:23.20,0:05:24.95,Default,,0,0,0,,Yes, pretty much.
+Dialogue: 0,0:05:24.95,0:05:30.58,Default,,0,0,0,,Well, for a while, forget about\Nyour duties and just let your hair down.
+Dialogue: 0,0:05:30.58,0:05:33.87,Default,,0,0,0,,It isn't vacation.\NI'll be on a special mission.
+Dialogue: 0,0:05:35.33,0:05:37.58,Default,,0,0,0,,In fact, I'm anxious about it.
+Dialogue: 0,0:05:37.58,0:05:42.08,Default,,0,0,0,,I have to find the suspected\NStrategic-Class magician.
+Dialogue: 0,0:05:42.08,0:05:45.70,Default,,0,0,0,,Why me, when I'm not used to\Nundercover investigations?
+Dialogue: 0,0:05:45.70,0:05:48.04,Default,,0,0,0,,I know my age is a good match for it,
+Dialogue: 0,0:05:48.04,0:05:52.70,Default,,0,0,0,,but there are a lot of people\Nwho've gone through specialized training.
+Dialogue: 0,0:05:52.70,0:05:54.91,Default,,0,0,0,,Okay, okay.
+Dialogue: 0,0:05:54.91,0:05:57.95,Default,,0,0,0,,If the target is whom we suspect,\Nit's a Strategic-Class magician
+Dialogue: 0,0:05:57.95,0:06:00.24,Default,,0,0,0,,who's responsible\Nfor Scorched Halloween.
+Dialogue: 0,0:06:00.24,0:06:05.04,Default,,0,0,0,,Someone even more dangerous\Nthan a nuclear missile.
+Dialogue: 0,0:06:05.04,0:06:06.87,Default,,0,0,0,,I can see why the General Staff Office
+Dialogue: 0,0:06:06.87,0:06:11.08,Default,,0,0,0,,would prioritize fighting\Nstrength over training as a spy
+Dialogue: 0,0:06:11.08,0:06:13.62,Default,,0,0,0,,when making their choice.
+Dialogue: 0,0:06:13.62,0:06:16.12,Default,,0,0,0,,I get that, but...
+Dialogue: 0,0:06:16.12,0:06:18.24,Default,,0,0,0,,Why not think about it like this?
+Dialogue: 0,0:06:18.24,0:06:19.79,Default,,0,0,0,,The commander's duty
+Dialogue: 0,0:06:19.79,0:06:23.87,Default,,0,0,0,,is making contact with the suspect\Nand trying to throw them off balance.
+Dialogue: 0,0:06:23.87,0:06:27.41,Default,,0,0,0,,Well, I guess that's about right.
+Dialogue: 0,0:06:27.41,0:06:31.49,Default,,0,0,0,,Since my spycraft is pretty much\Non the same level as an amateur.
+Dialogue: 0,0:06:31.49,0:06:37.04,Default,,0,0,0,,Then, even more so, I think it's your loss\Nif you don't enjoy yourself there.
+Dialogue: 0,0:06:37.04,0:06:40.83,Default,,0,0,0,,I believe that would get any suspects\Nto let their guard down around you, too.
+Dialogue: 0,0:06:41.91,0:06:46.37,Default,,0,0,0,,Yes. You may have a point there, Ben.
+Dialogue: 0,0:06:49.16,0:06:52.74,Default,,0,0,0,,Ben, watch the fort while I'm gone.
+Dialogue: 0,0:06:52.74,0:06:56.33,Default,,0,0,0,,There are fugitives\Nwho still haven't been punished yet,
+Dialogue: 0,0:06:56.33,0:06:58.54,Default,,0,0,0,,and normally, tracking\Nthem down would be my duty,
+Dialogue: 0,0:06:58.54,0:07:02.08,Default,,0,0,0,,so I hate having to make you do it, but...
+Dialogue: 0,0:07:02.08,0:07:06.66,Default,,0,0,0,,You're the only I can trust\Nto take over my duties here, so...
+Dialogue: 0,0:07:06.66,0:07:09.12,Default,,0,0,0,,You can count on me, Commander.
+Dialogue: 0,0:07:09.12,0:07:12.87,Default,,0,0,0,,You're not leaving just yet,\Nbut have a safe trip.
+Dialogue: 0,0:07:16.91,0:07:18.91,Default,,0,0,0,,{\pos(750,176)}"SHIBA"
+Dialogue: 0,0:07:17.04,0:07:18.91,Default,,0,0,0,,{\fs40\bord0.4\fnOpen Sans Light\b0\3c&HFFFFFF&\u1\pos(298,90)}December 31st, 2095
+Dialogue: 0,0:07:19.37,0:07:23.49,Default,,0,0,0,,Understood, Aunt.\NI'll talk to you later.
+Dialogue: 0,0:07:23.49,0:07:26.16,Default,,0,0,0,,Oh, that's right, Tatsuya...
+Dialogue: 0,0:07:26.16,0:07:27.29,Default,,0,0,0,,Yes?
+Dialogue: 0,0:07:27.29,0:07:30.91,Default,,0,0,0,,The USNA Army Magician Unit Stars
+Dialogue: 0,0:07:30.91,0:07:36.70,Default,,0,0,0,,is searching for the Strategic-Class magician\Nwho let loose Material Burst.
+Dialogue: 0,0:07:40.54,0:07:43.33,Default,,0,0,0,,Watch your back, Tatsuya.
+Dialogue: 0,0:07:43.33,0:07:44.83,Default,,0,0,0,,Understood.
+Dialogue: 0,0:07:44.83,0:07:47.74,Default,,0,0,0,,Well, Happy New Year.
+Dialogue: 0,0:07:52.20,0:07:55.12,Default,,0,0,0,,{\fs40\fad(500,200)\bord0.4\fnOpen Sans Semibold\b1\3c&H000000&\u1\pos(286,94)}January 1st, 2096
+Dialogue: 0,0:08:10.41,0:08:12.91,Default,,0,0,0,,Isn't Miyuki beautiful?
+Dialogue: 0,0:08:12.91,0:08:16.24,Default,,0,0,0,,Happy New Year, Tatsuya!
+Dialogue: 0,0:08:16.24,0:08:17.99,Default,,0,0,0,,That really suits you!
+Dialogue: 0,0:08:17.99,0:08:19.99,Default,,0,0,0,,Happy New Year.
+Dialogue: 0,0:08:19.99,0:08:22.12,Default,,0,0,0,,That looks good on you, too, Honoka.
+Dialogue: 0,0:08:23.29,0:08:25.41,Default,,0,0,0,,You were born to wear that, Tatsuya.
+Dialogue: 0,0:08:25.41,0:08:28.45,Default,,0,0,0,,You've got the presence of\Na leader of a crime syndicate.
+Dialogue: 0,0:08:28.45,0:08:30.33,Default,,0,0,0,,What, I'm yakuza?
+Dialogue: 0,0:08:31.74,0:08:32.83,Default,,0,0,0,,Tatsuya...
+Dialogue: 0,0:08:32.83,0:08:34.79,Default,,0,0,0,,Who's that?
+Dialogue: 0,0:08:34.79,0:08:37.79,Default,,0,0,0,,Master Yakumo,\Nthe head priest of Kyuchoji Temple.
+Dialogue: 0,0:08:37.79,0:08:43.04,Default,,0,0,0,,Maybe you know him better as the famous\Nninjutsu user, Master Yakumo Kokonoe.
+Dialogue: 0,0:08:43.04,0:08:45.33,Default,,0,0,0,,He's my martial arts teacher.
+Dialogue: 0,0:08:45.33,0:08:47.45,Default,,0,0,0,,Nice to meet you.
+Dialogue: 0,0:08:55.45,0:08:58.29,Default,,0,0,0,,Tatsuya, do you know who that is?
+Dialogue: 0,0:08:58.29,0:08:59.41,Default,,0,0,0,,No idea.
+Dialogue: 0,0:08:59.41,0:09:03.91,Default,,0,0,0,,Maybe to a foreigner,\Nyour manner of dress is unusual, Tatsuya.
+Dialogue: 0,0:09:08.20,0:09:12.12,Default,,0,0,0,,Brother, what are you looking at?
+Dialogue: 0,0:09:13.29,0:09:15.45,Default,,0,0,0,,She's pretty.
+Dialogue: 0,0:09:15.45,0:09:18.74,Default,,0,0,0,,Not as much as you, though.
+Dialogue: 0,0:09:18.74,0:09:23.04,Default,,0,0,0,,Don't think you can always\Nthrow me off the trail like that.
+Dialogue: 0,0:09:23.04,0:09:25.24,Default,,0,0,0,,I'm not trying to throw you off the trail.
+Dialogue: 0,0:09:25.24,0:09:27.83,Default,,0,0,0,,I really think that.
+Dialogue: 0,0:09:27.83,0:09:31.37,Default,,0,0,0,,And that's not why I'm looking at her.
+Dialogue: 0,0:09:34.79,0:09:37.04,Default,,0,0,0,,Is there something suspicious about her?
+Dialogue: 0,0:09:48.66,0:09:50.74,Default,,0,0,0,,Suspicious...
+Dialogue: 0,0:09:50.74,0:09:53.29,Default,,0,0,0,,Well, that outfit is rather peculiar.
+Dialogue: 0,0:09:59.45,0:10:03.29,Default,,0,0,0,,But that's not all, is it?
+Dialogue: 0,0:10:25.74,0:10:27.41,Default,,0,0,0,,Welcome home!
+Dialogue: 0,0:10:27.41,0:10:30.37,Default,,0,0,0,,Silvie, you're back already?
+Dialogue: 0,0:10:34.66,0:10:36.58,Default,,0,0,0,,Silvie?
+Dialogue: 0,0:10:36.58,0:10:37.79,Default,,0,0,0,,Lina...
+Dialogue: 0,0:10:37.79,0:10:39.79,Default,,0,0,0,,Why are you dressed like that?
+Dialogue: 0,0:10:39.79,0:10:41.91,Default,,0,0,0,,Oh, this?
+Dialogue: 0,0:10:41.91,0:10:43.74,Default,,0,0,0,,Not wanting to stand out,
+Dialogue: 0,0:10:43.74,0:10:48.29,Default,,0,0,0,,I looked into appropriate\NJapanese fashion for visiting a shrine.
+Dialogue: 0,0:10:48.29,0:10:50.08,Default,,0,0,0,,It took longer than I thought.
+Dialogue: 0,0:10:50.08,0:10:52.33,Default,,0,0,0,,Does it look good?
+Dialogue: 0,0:10:52.33,0:10:55.79,Default,,0,0,0,,Before I answer that,\Nlet me ask you something.
+Dialogue: 0,0:10:55.79,0:10:58.08,Default,,0,0,0,,Sure, what is it?
+Dialogue: 0,0:10:58.08,0:11:02.58,Default,,0,0,0,,Did you see any other girls\Nwho were dressed like you at the shrine?
+Dialogue: 0,0:11:03.91,0:11:07.91,Default,,0,0,0,,Huh? Now that you mention it,\NI don't recall seeing anyone.
+Dialogue: 0,0:11:09.49,0:11:11.62,Default,,0,0,0,,Lina, I'm going to be frank with you!
+Dialogue: 0,0:11:11.62,0:11:14.74,Default,,0,0,0,,That outfit shows a lack of common sense!
+Dialogue: 0,0:11:14.74,0:11:16.83,Default,,0,0,0,,Don't be surprised!
+Dialogue: 0,0:11:16.83,0:11:22.04,Default,,0,0,0,,The only place I might see an outfit\Nlike that is in sketchy anime or comics!
+Dialogue: 0,0:11:22.04,0:11:24.20,Default,,0,0,0,,Where did you get the idea from?
+Dialogue: 0,0:11:24.20,0:11:27.70,Default,,0,0,0,,I bet everyone was gawking\Nat you and that eyesore!
+Dialogue: 0,0:11:27.70,0:11:32.58,Default,,0,0,0,,Come to think of it,\Nthe target did smirk at me.
+Dialogue: 0,0:11:32.58,0:11:37.12,Default,,0,0,0,,Commander, let's cancel\Nthe rest of your itinerary for today.
+Dialogue: 0,0:11:37.12,0:11:43.74,Default,,0,0,0,,I'm going to carefully explain\Nmodern Japanese fashion trends to you
+Dialogue: 0,0:11:43.74,0:11:45.58,Default,,0,0,0,,in a way
+Dialogue: 0,0:11:45.58,0:11:48.20,Default,,0,0,0,,that you'll understand.
+Dialogue: 0,0:11:49.70,0:11:50.91,Default,,0,0,0,,Okay.
+Dialogue: 0,0:11:52.54,0:11:54.08,Default,,0,0,0,,{\pos(738,64)}"Visitor Arc I"
+Dialogue: 0,0:11:54.83,0:11:56.79,Default,,0,0,0,,{\fs40\bord0.4\fnOpen Sans Semibold\b1\3c&H000000&\u1\pos(286,94)}January 9th, 2096
+Dialogue: 0,0:11:56.79,0:11:59.66,Default,,0,0,0,,{\an8}"NATIONAL MAGIC UNIVERSITY\NAFFILIATED FIRST HIGH SCHOOL"
+Dialogue: 0,0:12:03.29,0:12:05.99,Default,,0,0,0,,Sorry to keep you waiting.
+Dialogue: 0,0:12:09.16,0:12:10.79,Default,,0,0,0,,That's the magic girl we saw at the shrine.
+Dialogue: 0,0:12:10.79,0:12:11.95,Default,,0,0,0,,Shush.
+Dialogue: 0,0:12:11.95,0:12:14.99,Default,,0,0,0,,I'll introduce you, Tatsuya.
+Dialogue: 0,0:12:14.99,0:12:17.41,Default,,0,0,0,,This is Angelina Kudou Shields.
+Dialogue: 0,0:12:17.41,0:12:21.45,Default,,0,0,0,,She's the exchange student and will be\Nour classmate in Class A starting today.
+Dialogue: 0,0:12:21.45,0:12:27.37,Default,,0,0,0,,Honoka, I'd like you to introduce me\Nto everyone, not just him.
+Dialogue: 0,0:12:28.95,0:12:30.66,Default,,0,0,0,,Oh, sorry!
+Dialogue: 0,0:12:30.66,0:12:32.70,Default,,0,0,0,,Well, that's Honoka for you.
+Dialogue: 0,0:12:32.70,0:12:35.66,Default,,0,0,0,,It's so Honoka.
+Dialogue: 0,0:12:35.66,0:12:37.74,Default,,0,0,0,,Then, let's start over.
+Dialogue: 0,0:12:37.74,0:12:43.58,Default,,0,0,0,,This is Angelina Kudou Shields\Nfrom America.
+Dialogue: 0,0:12:43.58,0:12:45.87,Default,,0,0,0,,Please call me Lina.
+Dialogue: 0,0:12:47.58,0:12:49.16,Default,,0,0,0,,Nice to meet you.
+Dialogue: 0,0:12:49.16,0:12:50.95,Default,,0,0,0,,Nice to meet you, Lina.
+Dialogue: 0,0:12:50.95,0:12:54.66,Default,,0,0,0,,Are you related to His Excellency Kudou?
+Dialogue: 0,0:12:54.66,0:13:01.24,Default,,0,0,0,,I seem to recall that his younger brother\Nsettled in America and raised a family there.
+Dialogue: 0,0:13:01.24,0:13:05.91,Default,,0,0,0,,Oh, you're well-informed!\NThat was a long time ago,
+Dialogue: 0,0:13:05.91,0:13:10.12,Default,,0,0,0,,but my mother's grandfather\Nis General Kudou's younger brother.
+Dialogue: 0,0:13:10.12,0:13:15.74,Default,,0,0,0,,It seems that connection is part of\Nthe reason I'm allowed to study here.
+Dialogue: 0,0:13:21.58,0:13:24.04,Default,,0,0,0,,Ready, Miyuki?
+Dialogue: 0,0:13:24.04,0:13:25.62,Default,,0,0,0,,Whenever you are.
+Dialogue: 0,0:13:25.62,0:13:28.08,Default,,0,0,0,,You can do the countdown, Lina.
+Dialogue: 0,0:13:31.33,0:13:32.87,Default,,0,0,0,,Three...
+Dialogue: 0,0:13:32.87,0:13:34.45,Default,,0,0,0,,two...
+Dialogue: 0,0:13:34.45,0:13:35.83,Default,,0,0,0,,one!
+Dialogue: 0,0:13:35.83,0:13:37.37,Default,,0,0,0,,Go!
+Dialogue: 0,0:13:50.49,0:13:52.66,Default,,0,0,0,,I lost again!
+Dialogue: 0,0:13:53.74,0:13:56.37,Default,,0,0,0,,I'm ahead by two, Lina.
+Dialogue: 0,0:13:58.29,0:14:00.41,Default,,0,0,0,,They were tied up.
+Dialogue: 0,0:14:00.41,0:14:04.91,Default,,0,0,0,,I think the exchange student's\Ncasting was slightly faster.
+Dialogue: 0,0:14:04.91,0:14:06.37,Default,,0,0,0,,Yes.
+Dialogue: 0,0:14:06.37,0:14:09.70,Default,,0,0,0,,But Miyuki's interference power was superior,
+Dialogue: 0,0:14:09.70,0:14:13.24,Default,,0,0,0,,and she grabbed control of\Nthe magic before it was complete.
+Dialogue: 0,0:14:13.24,0:14:19.45,Default,,0,0,0,,Prioritize speed or power?\NInstead of winning through simple ability...
+Dialogue: 0,0:14:19.45,0:14:21.66,Default,,0,0,0,,I'd say she won through strategy.
+Dialogue: 0,0:14:21.66,0:14:25.37,Default,,0,0,0,,One more time, Miyuki!
+Dialogue: 0,0:14:25.37,0:14:27.37,Default,,0,0,0,,I'll beat you this time!
+Dialogue: 0,0:14:30.66,0:14:31.95,Default,,0,0,0,,Brother...
+Dialogue: 0,0:14:31.95,0:14:33.87,Default,,0,0,0,,So, is Lina...
+Dialogue: 0,0:14:33.87,0:14:35.29,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:14:35.29,0:14:39.29,Default,,0,0,0,,There's a high likelihood she's Angie Sirius,\Nthe commander of Stars,
+Dialogue: 0,0:14:39.29,0:14:43.54,Default,,0,0,0,,the USNA Army's\Nmost powerful magician unit.
+Dialogue: 0,0:14:43.54,0:14:45.08,Default,,0,0,0,,The question is...
+Dialogue: 0,0:14:45.08,0:14:52.66,Default,,0,0,0,,Why would the USNA send in Sirius\Nwho is essentially their trump card?
+Dialogue: 0,0:14:52.66,0:14:54.66,Default,,0,0,0,,Exactly.
+Dialogue: 0,0:14:54.66,0:14:57.20,Default,,0,0,0,,After watching her for a week...
+Dialogue: 0,0:14:57.20,0:15:01.04,Default,,0,0,0,,I can tell Lina isn't cut out to be a spy.
+Dialogue: 0,0:15:01.04,0:15:04.54,Default,,0,0,0,,I would suspect the real spy\Nto be acting separately,
+Dialogue: 0,0:15:04.54,0:15:09.49,Default,,0,0,0,,but Sirius is too important\Nto use as a cover story.
+Dialogue: 0,0:15:09.49,0:15:12.37,Default,,0,0,0,,No, assuming Lina is Sirius,
+Dialogue: 0,0:15:12.37,0:15:17.54,Default,,0,0,0,,a spy mission is incidental.\NThe real mission is something else.
+Dialogue: 0,0:15:17.54,0:15:22.79,Default,,0,0,0,,A mission so important\Nthat the USNA would send Sirius overseas.
+Dialogue: 0,0:15:22.79,0:15:24.87,Default,,0,0,0,,What could it be?
+Dialogue: 0,0:15:24.87,0:15:26.79,Default,,0,0,0,,I have no idea...
+Dialogue: 0,0:15:26.79,0:15:30.41,Default,,0,0,0,,what the USNA has in mind.
+Dialogue: 0,0:15:30.41,0:15:31.91,Default,,0,0,0,,I'm back!
+Dialogue: 0,0:15:31.91,0:15:34.66,Default,,0,0,0,,Welcome home, Lina.
+Dialogue: 0,0:15:34.66,0:15:36.74,Default,,0,0,0,,Mia, you're here?
+Dialogue: 0,0:15:36.74,0:15:38.08,Default,,0,0,0,,Yes.
+Dialogue: 0,0:15:38.08,0:15:40.70,Default,,0,0,0,,I apologize for the intrusion, Major.
+Dialogue: 0,0:15:42.49,0:15:44.91,Default,,0,0,0,,Please have a seat, Mia.
+Dialogue: 0,0:15:44.91,0:15:47.29,Default,,0,0,0,,Silvie, get us some tea, please.
+Dialogue: 0,0:15:47.29,0:15:49.08,Default,,0,0,0,,Milk tea, yes?
+Dialogue: 0,0:15:49.08,0:15:51.54,Default,,0,0,0,,Another cup for you, Mia?
+Dialogue: 0,0:15:51.54,0:15:54.29,Default,,0,0,0,,Yes. Thank you.
+Dialogue: 0,0:15:57.83,0:16:03.08,Default,,0,0,0,,Did you learn anything\Nabout the Strategic-Class magician, Silvie?
+Dialogue: 0,0:16:03.08,0:16:10.24,Default,,0,0,0,,I pored over the entire public database\Nbut didn't find any new information.
+Dialogue: 0,0:16:10.24,0:16:12.24,Default,,0,0,0,,Really?
+Dialogue: 0,0:16:12.24,0:16:15.54,Default,,0,0,0,,Mia, you're undercover at the Magic University.
+Dialogue: 0,0:16:15.54,0:16:17.49,Default,,0,0,0,,Have you heard anything?
+Dialogue: 0,0:16:17.49,0:16:20.08,Default,,0,0,0,,Nothing yet.
+Dialogue: 0,0:16:20.08,0:16:21.58,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:16:21.58,0:16:23.41,Default,,0,0,0,,How about you, Lina?
+Dialogue: 0,0:16:23.41,0:16:26.29,Default,,0,0,0,,Have you gotten friendly\Nwith the target at all?
+Dialogue: 0,0:16:26.29,0:16:30.24,Default,,0,0,0,,Yes, I believe we're on good terms,
+Dialogue: 0,0:16:30.24,0:16:33.08,Default,,0,0,0,,but I haven't learned anything important.
+Dialogue: 0,0:16:33.08,0:16:37.04,Default,,0,0,0,,I have a feeling my cover\Nwill be blown before that.
+Dialogue: 0,0:16:37.04,0:16:38.91,Default,,0,0,0,,Has something happened?
+Dialogue: 0,0:16:38.91,0:16:40.79,Default,,0,0,0,,Yes, actually...
+Dialogue: 0,0:16:40.72,0:16:43.98,Default,,0,0,0,,{\fad(300,0)\an8}"School Information"
+Dialogue: 0,0:16:41.74,0:16:43.24,Default,,0,0,0,,By the way, Lina...
+Dialogue: 0,0:16:43.24,0:16:44.45,Default,,0,0,0,,Yes?
+Dialogue: 0,0:16:44.45,0:16:48.24,Default,,0,0,0,,Usually the nickname for Angelina\Nwould be "Angie," wouldn't it?
+Dialogue: 0,0:16:48.24,0:16:51.58,Default,,0,0,0,,Or is my memory playing tricks on me?
+Dialogue: 0,0:16:51.58,0:16:54.62,Default,,0,0,0,,No, you're right.
+Dialogue: 0,0:16:54.62,0:16:57.91,Default,,0,0,0,,Back in elementary school,\Nthere was a girl named Angela in my class,
+Dialogue: 0,0:16:57.91,0:17:00.91,Default,,0,0,0,,and everyone called her "Angie."
+Dialogue: 0,0:17:00.91,0:17:05.70,Default,,0,0,0,,And that's why you're called\N"Lina" instead of "Angie"?
+Dialogue: 0,0:17:07.99,0:17:10.33,Default,,0,0,0,,You don't think it was a coincidence?
+Dialogue: 0,0:17:10.33,0:17:12.20,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:17:12.20,0:17:13.79,Default,,0,0,0,,I really don't.
+Dialogue: 0,0:17:16.33,0:17:20.16,Default,,0,0,0,,It's fine! He's just a high school student.
+Dialogue: 0,0:17:20.16,0:17:22.24,Default,,0,0,0,,Even if he does suspect me...
+Dialogue: 0,0:17:22.24,0:17:25.41,Default,,0,0,0,,I won't let him trip me up.
+Dialogue: 0,0:17:39.62,0:17:41.70,Default,,0,0,0,,Lina...
+Dialogue: 0,0:17:41.70,0:17:43.79,Default,,0,0,0,,What are you doing here?
+Dialogue: 0,0:17:43.79,0:17:46.29,Default,,0,0,0,,Tatsuya, you're in Course 2, aren't you?
+Dialogue: 0,0:17:46.29,0:17:47.62,Default,,0,0,0,,Yes.
+Dialogue: 0,0:17:47.62,0:17:52.20,Default,,0,0,0,,I was wondering why your uniform\Nwas different from everyone else's in Class A.
+Dialogue: 0,0:17:52.20,0:17:55.54,Default,,0,0,0,,Miyuki explained it to me,\Nbut she didn't sound too happy about it.
+Dialogue: 0,0:17:56.74,0:17:59.16,Default,,0,0,0,,But when I asked Honoka\Nabout it afterwards,
+Dialogue: 0,0:17:59.16,0:18:03.49,Default,,0,0,0,,she said you were a powerful student\Nat the top of your first-year class.
+Dialogue: 0,0:18:03.49,0:18:07.49,Default,,0,0,0,,Tatsuya, why are you pretending\Nto be an Irregular?
+Dialogue: 0,0:18:08.41,0:18:10.83,Default,,0,0,0,,I'm not pretending.
+Dialogue: 0,0:18:10.83,0:18:13.41,Default,,0,0,0,,I really am an Irregular.
+Dialogue: 0,0:18:13.41,0:18:18.79,Default,,0,0,0,,For the practical skill test, they grade you\Non three things. Speed, scale and strength.
+Dialogue: 0,0:18:18.79,0:18:20.16,Default,,0,0,0,,But in a battle,
+Dialogue: 0,0:18:20.16,0:18:23.33,Default,,0,0,0,,victory and defeat aren't determined\Nalone by the merits of those three things.
+Dialogue: 0,0:18:23.33,0:18:25.54,Default,,0,0,0,,As far as practical skill tests go,\NI'm an Irregular,
+Dialogue: 0,0:18:25.54,0:18:28.54,Default,,0,0,0,,but I'm tough in a fight. That's all.
+Dialogue: 0,0:18:28.54,0:18:32.20,Default,,0,0,0,,Ability for tests and ability for\Nactual combat are two different things.
+Dialogue: 0,0:18:32.20,0:18:35.62,Default,,0,0,0,,I agree with that opinion.
+Dialogue: 0,0:18:35.62,0:18:38.62,Default,,0,0,0,,Instead of a talented student at school,
+Dialogue: 0,0:18:38.62,0:18:42.62,Default,,0,0,0,,I'd like to become a magician\Nwho's useful in a fight.
+Dialogue: 0,0:18:42.62,0:18:44.70,Default,,0,0,0,,It's like you're spoiling for a fight.
+Dialogue: 0,0:18:46.04,0:18:49.04,Default,,0,0,0,,You can tell, can't you? That's impressive.
+Dialogue: 0,0:19:01.79,0:19:03.91,Default,,0,0,0,,That was reckless.
+Dialogue: 0,0:19:03.91,0:19:05.91,Default,,0,0,0,,I figured you could dodge it.
+Dialogue: 0,0:19:05.91,0:19:08.37,Default,,0,0,0,,Will you explain all this?
+Dialogue: 0,0:19:08.37,0:19:10.99,Default,,0,0,0,,Will you...
+Dialogue: 0,0:19:10.99,0:19:13.08,Default,,0,0,0,,let me go first?
+Dialogue: 0,0:19:13.08,0:19:15.24,Default,,0,0,0,,That's pretty painful.
+Dialogue: 0,0:19:17.33,0:19:19.37,Default,,0,0,0,,Jeez, that hurt.
+Dialogue: 0,0:19:19.37,0:19:21.91,Default,,0,0,0,,You tried to put a hole in my face.
+Dialogue: 0,0:19:21.91,0:19:25.79,Default,,0,0,0,,I think it's only natural for you\Nto get a little pain in exchange.
+Dialogue: 0,0:19:25.79,0:19:30.99,Default,,0,0,0,,A clump of Psionic particles is hardly lethal.
+Dialogue: 0,0:19:30.99,0:19:34.79,Default,,0,0,0,,At worst, you'd only hallucinate\Nthat you got shot with a gun.
+Dialogue: 0,0:19:34.79,0:19:38.58,Default,,0,0,0,,And you don't think I was justified\Nin getting a little rough blocking it?
+Dialogue: 0,0:19:40.70,0:19:43.33,Default,,0,0,0,,Fine. You win.
+Dialogue: 0,0:19:46.33,0:19:49.83,Default,,0,0,0,,Please forgive my rudeness, Mr. Tatsuya.
+Dialogue: 0,0:19:52.08,0:19:53.74,Default,,0,0,0,,Forget about it.
+Dialogue: 0,0:19:53.74,0:19:56.12,Default,,0,0,0,,And you don't need to be polite.
+Dialogue: 0,0:19:56.12,0:19:59.62,Default,,0,0,0,,Acting like you're high-class\Ndoesn't feel like the real you, Lina.
+Dialogue: 0,0:19:59.62,0:20:02.37,Default,,0,0,0,,How am I not high-class?
+Dialogue: 0,0:20:02.37,0:20:04.16,Default,,0,0,0,,Just doesn't fit your personality.
+Dialogue: 0,0:20:04.16,0:20:05.79,Default,,0,0,0,,That's not true!
+Dialogue: 0,0:20:05.79,0:20:09.95,Default,,0,0,0,,I'll have you know that I was once invited\Nby the president to have tea!
+Dialogue: 0,0:20:09.95,0:20:11.66,Default,,0,0,0,,Oh?
+Dialogue: 0,0:20:11.66,0:20:15.87,Default,,0,0,0,,Imagine, only a very few magicians get\Nto meet the president, and you're one of them.
+Dialogue: 0,0:20:17.45,0:20:20.08,Default,,0,0,0,,Well, whatever.
+Dialogue: 0,0:20:20.08,0:20:24.45,Default,,0,0,0,,You wanted to try my skill, Lina.\NIs that what it was about?
+Dialogue: 0,0:20:24.45,0:20:26.37,Default,,0,0,0,,Y-Yes.
+Dialogue: 0,0:20:26.37,0:20:28.49,Default,,0,0,0,,It was simple curiosity.
+Dialogue: 0,0:20:28.49,0:20:31.62,Default,,0,0,0,,Then, your curiosity is satisfied.
+Dialogue: 0,0:20:31.62,0:20:34.16,Default,,0,0,0,,Don't test me again.
+Dialogue: 0,0:20:35.66,0:20:37.24,Default,,0,0,0,,Aren't you going to ask me?
+Dialogue: 0,0:20:37.24,0:20:38.41,Default,,0,0,0,,Ask you what?
+Dialogue: 0,0:20:38.41,0:20:40.24,Default,,0,0,0,,Ask me what?
+Dialogue: 0,0:20:40.24,0:20:44.08,Default,,0,0,0,,Aren't you going to ask about\Nwho I really am or something like that?
+Dialogue: 0,0:20:44.08,0:20:45.58,Default,,0,0,0,,I don't care.
+Dialogue: 0,0:20:46.87,0:20:51.08,Default,,0,0,0,,There are things in this world\Nyou're better off not knowing about.
+Dialogue: 0,0:20:54.87,0:20:57.74,Default,,0,0,0,,You're a jerk.
+Dialogue: 0,0:21:07.12,0:21:09.99,Default,,0,0,0,,Lina! Wake up!
+Dialogue: 0,0:21:09.99,0:21:12.87,Default,,0,0,0,,It's Major Canopus! There's an emergency!
+Dialogue: 0,0:21:12.87,0:21:14.95,Default,,0,0,0,,Ben, what's wrong?
+Dialogue: 0,0:21:14.95,0:21:18.12,Default,,0,0,0,,We found out the location\Nof the fugitives last month.
+Dialogue: 0,0:21:18.12,0:21:19.70,Default,,0,0,0,,What?
+Dialogue: 0,0:21:19.70,0:21:21.45,Default,,0,0,0,,Where are they?
+Dialogue: 0,0:21:21.45,0:21:22.87,Default,,0,0,0,,Japan.
+Dialogue: 0,0:21:23.62,0:21:28.41,Default,,0,0,0,,We believe they made landfall in Yokohama\Nand are currently laying low in Tokyo.
+Dialogue: 0,0:21:28.41,0:21:30.45,Default,,0,0,0,,Why Japan?
+Dialogue: 0,0:21:30.45,0:21:33.08,Default,,0,0,0,,Why Tokyo?
+Dialogue: 0,0:21:33.08,0:21:38.37,Default,,0,0,0,,The Joint Chiefs of Staff have decided\Nto dispatch more pursuers.
+Dialogue: 0,0:21:38.37,0:21:40.66,Default,,0,0,0,,Does the Japanese government\Nknow about this?
+Dialogue: 0,0:21:40.66,0:21:43.87,Default,,0,0,0,,No, it's a secret operation.
+Dialogue: 0,0:21:43.87,0:21:48.54,Default,,0,0,0,,Commander, I'm going to relay\Nyour orders from the General Staff Office.
+Dialogue: 0,0:21:48.54,0:21:53.79,Default,,0,0,0,,"The mission given to Major Angie Sirius\Nshould now be her second priority.
+Dialogue: 0,0:21:53.79,0:21:57.91,Default,,0,0,0,,Her first priority is\Nto track down the fugitives."
+Dialogue: 0,0:22:08.54,0:22:12.24,Default,,0,0,0,,Understood. Please relay that to headquarters.
+Dialogue: 0,0:22:12.24,0:22:16.24,Default,,0,0,0,,Roger that. Be careful, Commander.
+Dialogue: 0,0:22:37.04,0:22:40.99,Default,,0,0,0,,{\pos(718,100)}"Visitor Arc"
+Dialogue: 0,0:23:48.49,0:23:52.04,Default,,0,0,0,,{\pos(714,82)}"Visitor Arc II"
